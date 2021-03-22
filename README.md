@@ -1,2 +1,2 @@
 # Ricardo
-Primitive Prototype of FPS Shooter Game
+Primitive Prototype of TPS Shooter Game
